@@ -1,0 +1,11 @@
+C:\Users\90552\source\repos\VeriTabanlı_PartiSecim_Grafik\VeriTabanlı_PartiSecim_Grafik\bin\Debug\VeriTabanlı_PartiSecim_Grafik.exe.config
+C:\Users\90552\source\repos\VeriTabanlı_PartiSecim_Grafik\VeriTabanlı_PartiSecim_Grafik\bin\Debug\VeriTabanlı_PartiSecim_Grafik.exe
+C:\Users\90552\source\repos\VeriTabanlı_PartiSecim_Grafik\VeriTabanlı_PartiSecim_Grafik\bin\Debug\VeriTabanlı_PartiSecim_Grafik.pdb
+C:\Users\90552\source\repos\VeriTabanlı_PartiSecim_Grafik\VeriTabanlı_PartiSecim_Grafik\obj\Debug\VeriTabanlı_PartiSecim_Grafik.csprojAssemblyReference.cache
+C:\Users\90552\source\repos\VeriTabanlı_PartiSecim_Grafik\VeriTabanlı_PartiSecim_Grafik\obj\Debug\VeriTabanlı_PartiSecim_Grafik.FrmOyGiris.resources
+C:\Users\90552\source\repos\VeriTabanlı_PartiSecim_Grafik\VeriTabanlı_PartiSecim_Grafik\obj\Debug\VeriTabanlı_PartiSecim_Grafik.FrmGrafikler.resources
+C:\Users\90552\source\repos\VeriTabanlı_PartiSecim_Grafik\VeriTabanlı_PartiSecim_Grafik\obj\Debug\VeriTabanlı_PartiSecim_Grafik.Properties.Resources.resources
+C:\Users\90552\source\repos\VeriTabanlı_PartiSecim_Grafik\VeriTabanlı_PartiSecim_Grafik\obj\Debug\VeriTabanlı_PartiSecim_Grafik.csproj.GenerateResource.cache
+C:\Users\90552\source\repos\VeriTabanlı_PartiSecim_Grafik\VeriTabanlı_PartiSecim_Grafik\obj\Debug\VeriTabanlı_PartiSecim_Grafik.csproj.CoreCompileInputs.cache
+C:\Users\90552\source\repos\VeriTabanlı_PartiSecim_Grafik\VeriTabanlı_PartiSecim_Grafik\obj\Debug\VeriTabanlı_PartiSecim_Grafik.exe
+C:\Users\90552\source\repos\VeriTabanlı_PartiSecim_Grafik\VeriTabanlı_PartiSecim_Grafik\obj\Debug\VeriTabanlı_PartiSecim_Grafik.pdb
